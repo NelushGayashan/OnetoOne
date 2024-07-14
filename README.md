@@ -1,4 +1,4 @@
-# Spring Boot Hibernate One-to-One Mapping Example
+# Spring Boot Hibernate One-to-One Mapping
 
 This project demonstrates a simple Spring Boot application with Hibernate for one-to-one mapping between Employee and Address entities.
 
